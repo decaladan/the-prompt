@@ -1,0 +1,16 @@
+export const colors = {
+  background: '#1a1a2e',
+  surface: '#16213e',
+  primary: '#e94560',
+  secondary: '#0f3460',
+  accent: '#533483',
+  text: '#ffffff',
+  textSecondary: '#a0a0b0',
+  success: '#4ecca3',
+  error: '#e94560',
+  timerBar: '#e94560',
+  buttonA: '#e94560',
+  buttonB: '#0f3460',
+  buttonC: '#533483',
+  buttonD: '#4ecca3',
+};
